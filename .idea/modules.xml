@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-project.iml" filepath="$PROJECT_DIR$/.idea/modules/first-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/qa21.iml" filepath="$PROJECT_DIR$/.idea/qa21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-priject.iml" filepath="$PROJECT_DIR$/.idea/modules/first-priject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-priject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-priject.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-priject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-priject.test.iml" />
     </modules>
   </component>
 </project>

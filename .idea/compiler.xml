@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="first-priject.main" target="1.8" />
+      <module name="first-priject.test" target="1.8" />
+      <module name="GitHub.qa21.first-project.main" target="1.8" />
+      <module name="GitHub.qa21.first-project.test" target="1.8" />
+      <module name="telran.first-priject.main" target="1.8" />
+      <module name="telran.first-priject.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
